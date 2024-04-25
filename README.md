@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammubasharyasin&label=Profile%20views&color=0e75b6&style=flat" alt="iammubasharyasin" /> </p>
 
-- 🔭 I’m Programmer **in C++**
+- 🔭 Learn Programming
 
 - 📫 How to reach me **mubasharraj012@gmail.com**
 
