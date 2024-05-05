@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **mubasharraj012@gmail.com**
 
-- I make a **3D Animation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
