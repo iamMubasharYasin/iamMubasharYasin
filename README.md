@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️ , I'm MuBaShaR YaSiN </h1>
+<h1 align="center">Hi 🙋‍♂️ , I'm Mubashar Yasin </h1>
 <h3 align="center">Student of Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammubasharyasin&label=Profile%20views&color=0e75b6&style=flat"/> </p>
