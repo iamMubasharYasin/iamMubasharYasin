@@ -13,11 +13,11 @@ I'm a dedicated Computer Science student with a strong focus on building scalabl
 
 -  I’m currently working on **full-stack web projects** using .NET 10 and modern front-end technologies  
 -  I’m deepening my expertise in **C#, ASP.NET Core MVC, Entity Framework and REST APIs**  
-- 🎯Short-term goal: Secure a **Full Stack .NET Developer** role and contribute to impactful software solutions  
+- Short-term goal: Secure a **Full Stack .NET Developer** role and contribute to impactful software solutions  
 
 ---
 
-### 📬 Get in Touch
+###  Get in Touch
 
 -  Email: **mubasharraj012@gmail.com**  
 -  Portfolio: *Coming soon*  
@@ -58,7 +58,7 @@ I'm a dedicated Computer Science student with a strong focus on building scalabl
 
 ---
 
-### 🏆 Let's Build Something Great
+###  Let's Build Something Great
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
