@@ -1,4 +1,4 @@
-<h1 align="center">Mubashar Yasin</h1>
+<h2 align="center">MUBASHAR YASIN</h2>
 <h3 align="center">Computer Science Student | .NET Full Stack Developer </h3>
 
 <p align="center">
