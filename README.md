@@ -30,7 +30,7 @@ I'm a dedicated Computer Science student with a strong focus on building scalabl
 
 Alehsas Welfare Foundation is a web-based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations, and stay connected with ongoing social projects.
 
-** Key Features:**
+Key Features:
 - User-friendly interface for visitors and donors
 - Donation tracking and management system
 - Admin panel for managing campaigns and content
@@ -46,7 +46,7 @@ Alehsas Welfare Foundation is a web-based donation and welfare management system
 
 Kotli E-State is a modern real estate management system built to simplify property listing, searching, and management processes. It allows users to browse properties while administrators can manage listings efficiently through a secure dashboard.
 
-** Key Features:**
+ Key Features:
 - Property listing and management system
 - Advanced CRUD operations for property data
 - Admin dashboard for managing estate records
@@ -60,7 +60,7 @@ Kotli E-State is a modern real estate management system built to simplify proper
 
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| **Languages**  | C#, JavaScript, SQL, HTML5, CSS3                                            |
+| **Languages**  | C#, TypeScript, SQL, HTML5, CSS3                                            |
 | **Frameworks** | .NET 8/10, ASP.NET Core MVC, Entity Framework Core                          |
 | **Tools**      | Visual Studio, VS Code, YouTrack, GitHub, Swagger                           |
 | **Databases**  | MySQL, MS SQL Server                                                         |
