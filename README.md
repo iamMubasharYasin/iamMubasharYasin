@@ -98,7 +98,6 @@ Kotli E-State is a modern real estate management system built to simplify proper
 </p>
 
 ---
-
 ###  Let's Build Something Great
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
