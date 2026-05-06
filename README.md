@@ -26,7 +26,7 @@ I am dedicated Computer Science student with a strong focus on building scalable
 
 *ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Repository Pattern*
 
-Alehsas Welfare Foundation is a web-based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations, and stay connected with ongoing social projects.
+Al-``hsas Welfare Foundation is a web based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations and stay connected with ongoing social projects.
 
 Key Features:
 - User-friendly interface for visitors and donors
