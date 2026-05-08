@@ -86,10 +86,10 @@ Kotli E-State is a modern real estate management system built to simplify proper
 
 ### GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammubasharyasin&show_icons=true&locale=en&layout=compact&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammubasharyasin&show_icons=true&locale=en&theme=radical" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammubasharyasin&theme=radical" />
