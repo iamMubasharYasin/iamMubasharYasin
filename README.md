@@ -22,7 +22,7 @@ I am dedicated Computer Science student with a strong focus on building scalable
 
 *ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Repository Pattern*
 
-Al-``hsas Welfare Foundation is a web based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations and stay connected with ongoing social projects.
+Al-Ehsas Welfare Foundation is a web based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations and stay connected with ongoing social projects.
 
 Key Features:
 - User-friendly interface for visitors and donors
@@ -50,13 +50,13 @@ Kotli E-State is a modern real estate management system built to simplify proper
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
 | **Languages**  | C#, TypeScript, SQL, HTML5, CSS3                                            |
-| **Frameworks** | .NET 8/10, ASP.NET Core MVC, Entity Framework Core                          |
-| **Tools**      | Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Swagger                           |
+| **Frameworks** | .NET 8/10, ASP.NET Core MVC, Entity Framework Core                         |
+| **Tools**      | Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Scalar                           |
 | **Databases**  | MySQL, MS SQL Server                                                         |
 | **Other**      | REST APIs, Repository Pattern, Bootstrap                                    |
 
@@ -96,4 +96,4 @@ Kotli E-State is a modern real estate management system built to simplify proper
 
 > *"Exploring the universe of APIs and Frameworks."*
 
-<h2 align="center">Open to Work.! Feel free to explore my repositories and connect if you had like to collaborate on .NET Web-Development projects.</h2>
+<h2 align="center">Open to Work.! Feel free to explore my Pined repositories and connect if you had like to collaborate on .NET Web-Development projects.</h2>
