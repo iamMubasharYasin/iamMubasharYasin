@@ -1,5 +1,5 @@
 <h1 align="center">MUBASHAR YASIN</h1>
-<h2 align="center">Student of Computer Science | .NET Full Stack Developer</h2>
+<h2 align="center">Student of Computer Science | .NET Backend Engineer</h2>
 
 ###  About Me
 
