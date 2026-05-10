@@ -1,10 +1,6 @@
 <h1 align="center">MUBASHAR YASIN</h1>
 <h2 align="center">Student of Computer Science | .NET Full Stack Developer</h2>
 
-
-
----
-
 ###  About Me
 
 I am dedicated Computer Science student with a strong focus on building scalable web applications using the .NET ecosystem. I enjoy solving real-world problems through clean architecture and efficient code.
