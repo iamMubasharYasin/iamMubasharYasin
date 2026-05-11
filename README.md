@@ -3,7 +3,7 @@
 
 ###  About Me
 
-I am dedicated Computer Science student with a strong focus on building scalable web applications using the .NET ecosystem. I enjoy solving real-world problems through clean architecture and efficient code.
+I am dedicated Computer Science Student with a strong focus on building scalable web applications using the .NET ecosystem. I love solving real-world problems through clean architecture and efficient code.
 
 -  I'm currently working on **full-stack web projects** using .NET 8/10 and modern front-end technologies. 
 -  I'm deepening my expertise in **C#, Razor Pages, ASP.NET Core MVC, RDMS ,Entity Framework Core and REST APIs**    
