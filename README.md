@@ -20,7 +20,7 @@ I am dedicated Computer Science Student with a strong focus on building scalable
 
 #### Alehsas Welfare Foundation (Web Application)
 
-*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Repository Pattern*
+*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server |*
 
 Al-Ehsas Welfare Foundation is a web based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations and stay connected with ongoing social projects.
 
@@ -28,15 +28,15 @@ Key Features:
 - User-friendly interface for visitors and donors
 - Donation tracking and management system
 - Admin panel for managing campaigns and content
-- Secure and structured backend using Repository Pattern
-- CRUD operations for managing data efficiently (Tags, Posts, etc.)
+- Secure and structured backend 
+- CRUD operations for managing data efficiently (Causes and Cases)
 - Responsive design for all devices
 
 ---
 
 ####  Kotli E-State (Real Estate Web Application)
 
-*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Repository Pattern | Bootstrap*
+*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Bootstrap*
 
 Kotli E-State is a modern real estate management system built to simplify property listing, searching, and management processes. It allows users to browse properties while administrators can manage listings efficiently through a secure dashboard.
 
