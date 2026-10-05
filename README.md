@@ -12,7 +12,6 @@ I am dedicated Computer Science Student with a strong focus on building scalable
 ###  Get in Touch
 
 -  Email: **mubasharraj012@gmail.com**  
--  Portfolio: Working(https://beautiful-lokum-fca35e.netlify.app/)
 
 ---
 
