@@ -53,11 +53,11 @@ Kotli E-State is a modern real estate management system built to simplify proper
 
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| **Languages**  | C#, TypeScript, SQL, HTML5, CSS3                                            |
+| **Languages**  | C#, TypeScript, SQL, HTML5, CSS3    Bootstrap                                            |
 | **Frameworks** | .NET 8/10, ASP.NET Core MVC, Entity Framework Core                         |
 | **Tools**      | Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Scalar , Postman                         |
 | **Databases**  | MySQL, MS SQL Server                                                         |
-| **Other**      | REST APIs, Repository Pattern, Bootstrap                                    |
+| **Other**      | REST APIs, Repository Pattern,                                 |
 
 <p align="left">
   <strong>C#</strong><br/>
