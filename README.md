@@ -62,7 +62,8 @@ A real estate management application for browsing properties and managing listin
 ## Get in Touch
 
 - **Email:** [mubasharraj012@gmail.com](mailto:mubasharraj012@gmail.com)
-- **GitHub:** [@iammubasharyasin](https://github.com/iammubasharyasin)
+- **LinkedIn:** [@MubasharYasin](https://linkedin.com/in/mubasharyasin)
+)
 
 ---
 
