@@ -1,98 +1,75 @@
-<h1 align="center">MUBASHAR YASIN</h1>
-<h2 align="center">Student of Computer Science | Full Stack .NET Developer</h2>
-
-###  About Me
-
-I am dedicated Computer Science Student with a strong focus on building scalable web applications using the .NET ecosystem. I love solving real-world problems through clean architecture and efficient code.
-
--  I'm currently working as a **Full-stack web projects** using .NET 10 and modern front-end technologies. 
--  My expertise in **C#, Razor Pages, ASP.NET Core MVC, RDMS ,Entity Framework Core and REST APIs**    
----
-
-###  Get in Touch
-
--  Email: **mubasharraj012@gmail.com**  
-
----
-
-###  Experience & Projects
-
-#### Alehsas Welfare Foundation (Web Application)
-
-*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server |*
-
-Al-Ehsas Welfare Foundation is a web based donation and welfare management system designed to facilitate charitable activities by allowing users to explore welfare services, submit donations and stay connected with ongoing social projects.
-
-Key Features:
-- User-friendly interface for visitors and donors
-- Donation tracking and management system
-- Admin panel for managing campaigns and content
-- Secure and structured backend 
-- CRUD operations for managing data efficiently (Causes and Cases)
-- Responsive design for all devices
-
----
-
-####  Kotli E-State (Real Estate Web Application)
-
-*ASP.NET Core MVC (.NET 8) | Entity Framework Core | SQL Server | Bootstrap*
-
-Kotli E-State is a modern real estate management system built to simplify property listing, searching, and management processes. It allows users to browse properties while administrators can manage listings efficiently through a secure dashboard.
-
- Key Features:
-- Property listing and management system
-- Advanced CRUD operations for property data
-- Admin dashboard for managing estate records
-- Repository Pattern
-- Search and filter functionality for properties
-- Secure and scalable backend design
-
----
-
-###  Tech Stack
-
-| Category       | Technologies                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| **Languages**  | C#, TypeScript, SQL, HTML5, CSS3    Bootstrap                                            |
-| **Frameworks** | .NET 8/10, ASP.NET Core MVC, Entity Framework Core                         |
-| **Tools**      | Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Scalar , Postman                         |
-| **Databases**  | MySQL, MS SQL Server                                                         |
-| **Other**      | REST APIs, Repository Pattern,                                 |
-
-<p align="left">
-  <strong>C#</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
-
-  <strong>.NET</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/><br/>
-
-  <strong>MySQL</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br/>
-
-  <strong>SQL Server</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="SQL Server"/><br/>
-
-  <strong>JavaScript</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-
-</p>
-
----
-
-### GitHub Analytics
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammubasharyasin&show_icons=true&locale=en&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammubasharyasin&show_icons=true&locale=en&theme=radical" />
-</div> -->
+<h1 align="center">Mubashar Yasin</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammubasharyasin&theme=radical" />
+  <strong>Computer Science Student · Full-Stack .NET Developer</strong>
+</p>
+
+<p align="center">
+  Building practical web applications with ASP.NET Core, Entity Framework Core, and SQL Server.
 </p>
 
 ---
-###  Let's Build Something Great
 
-> *"Exploring the universe of APIs and Frameworks."*
+## About Me
 
-<h2 align="center">Open to Work.! Feel free to explore my Pined repositories and connect if you had like to collaborate on .NET Web-Development projects.</h2>
+I’m a Computer Science student focused on building reliable, user-friendly web applications with the .NET ecosystem. I enjoy solving practical problems through clean code and thoughtful application design.
+
+- Developing full-stack web projects with **.NET 10** and modern front-end technologies
+- Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, relational databases, and REST APIs**
+- Interested in maintainable architecture and building useful software
+
+## Projects
+
+### Al-Ehsas Welfare Foundation
+
+**ASP.NET Core MVC · .NET 8 · Entity Framework Core · SQL Server**
+
+A web-based donation and welfare management system that helps visitors explore welfare services, submit donations, and follow social projects.
+
+- Donation tracking and management
+- Admin panel for campaigns and site content
+- CRUD management for causes and cases
+- Responsive interface for desktop and mobile
+- Structured backend and data management
+
+### Kotli E-State
+
+**ASP.NET Core MVC · .NET 8 · Entity Framework Core · SQL Server · Bootstrap**
+
+A real estate management application for browsing properties and managing listings through an administrative dashboard.
+
+- Property listing and management
+- Search and filtering
+- Admin dashboard for estate records
+- Repository Pattern
+- CRUD operations for property data
+- Secure, structured backend
+
+## Tech Stack
+
+**Languages:** C#, TypeScript, SQL, HTML5, CSS3  
+**Frameworks and libraries:** .NET 8/10, ASP.NET Core MVC, Razor Pages, Entity Framework Core, Bootstrap  
+**Databases:** Microsoft SQL Server, MySQL  
+**Tools:** Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Scalar, Postman  
+**Concepts:** REST APIs, Repository Pattern, CRUD
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammubasharyasin&theme=radical" alt="GitHub contribution streak" />
+</p>
+
+## Get in Touch
+
+- **Email:** [mubasharraj012@gmail.com](mailto:mubasharraj012@gmail.com)
+- **GitHub:** [@iammubasharyasin](https://github.com/iammubasharyasin)
+
+---
+
+<p align="center">
+  <em>Exploring APIs, frameworks, and better ways to build useful software.</em>
+</p>
+
+<p align="center">
+  Open to connecting and collaborating on .NET web development projects.
+</p>
