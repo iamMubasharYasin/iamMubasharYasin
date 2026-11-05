@@ -53,12 +53,6 @@ A real estate management application for browsing properties and managing listin
 **Tools:** Visual Studio, VS Code, JetBrains, YouTrack, GitHub, Scalar, Postman  
 **Concepts:** REST APIs, Repository Pattern, CRUD
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammubasharyasin&theme=radical" alt="GitHub contribution streak" />
-</p>
-
 ## Get in Touch
 
 - **Email:** [mubasharraj012@gmail.com](mailto:mubasharraj012@gmail.com)
