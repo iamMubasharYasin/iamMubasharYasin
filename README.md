@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building practical web applications with ASP.NET Core, Entity Framework Core, and SQL Server.
+  Building practical web applications with ASP.NET Core, Entity Framework Core and SQL Server.
 </p>
 
 ---
