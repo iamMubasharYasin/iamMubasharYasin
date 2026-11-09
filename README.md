@@ -18,7 +18,7 @@
 I’m a Computer Science student focused on building reliable, user-friendly web applications with the .NET ecosystem. I enjoy solving practical problems through clean code and thoughtful application design.
 
 - 🚀 Building full-stack web projects with **.NET 8/10** and modern front-end technologies
-- 🧰 Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, SQL Server, and REST APIs**
+- 🧰 Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, SQL Server and REST APIs**
 - 🧩 Interested in maintainable architecture and software that solves real problems
 
 ## 🛠️ Tech Stack
