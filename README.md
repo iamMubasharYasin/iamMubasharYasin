@@ -70,11 +70,6 @@ A real estate management application for browsing properties and managing listin
 - [Mastering C# with .NET: Beginner to Intermediate Bootcamp](https://www.udemy.com/certificate/UC-6b500ff2-0450-4cdd-93b8-7716d57f0989/) · [Course](https://www.udemy.com/course/mastering-csharp-with-beginner-to-intermediate-bootcamp/)
 - [ASP.NET MVC Complete Guide using .NET Core [ .NET 8 Updated ]](https://www.udemy.com/certificate/UC-b43786df-27a5-4927-87cb-faa116fb026b/) · [Course](https://www.udemy.com/course/aspnet-mvc-course-aspnet-core/)
 
-## 📫 Get in Touch
-
-- **Email:** [mubasharraj012@gmail.com](mailto:mubasharraj012@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mubasharyasin](https://linkedin.com/in/mubasharyasin)
-
 <div align="center">
 
 *✨ Exploring APIs, frameworks, and better ways to build useful software.*
