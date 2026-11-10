@@ -9,9 +9,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubasharyasin)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mubasharraj012@gmail.com)
-
 </div>
 
 ---
@@ -139,22 +136,6 @@ A real estate management application designed to simplify property listing, sear
 
 [![Certificate](https://img.shields.io/badge/View_Certificate-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b43786df-27a5-4927-87cb-faa116fb026b/)
 [![Course](https://img.shields.io/badge/View_Course-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.udemy.com/course/aspnet-mvc-course-aspnet-core/)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MubasharRaj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubasharRaj&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
