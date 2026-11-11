@@ -3,7 +3,7 @@
 
 # Mubashar Yasin
 
-### 👨‍💻 Computer Science Student · Full-Stack .NET Developer
+###  Computer Science Student · Full-Stack .NET Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+practical+web+applications;Learning+and+growing+with+.NET;Turning+ideas+into+useful+software" alt="Animated introduction" />
 
@@ -19,11 +19,11 @@ I'm a Computer Science student focused on building reliable, user-friendly web a
 
 I enjoy solving practical problems through clean code, maintainable architecture, and thoughtful application design.
 
-- 🚀 Building full-stack web projects with **.NET 8/10** and modern front-end technologies
-- 💻 Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, SQL Server and REST APIs**
-- 🧩 Interested in **Clean Architecture, Repository Pattern, API Development and Software Engineering**
-- 📚 Continuously learning new technologies and improving my development skills
-- 🎯 Goal: Become a professional **Full-Stack .NET Developer** and explore **AI Integration**
+- Building full-stack web projects with **.NET 8/10** and modern front-end technologies
+- Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, SQL Server and REST APIs**
+- Interested in **Clean Architecture, Repository Pattern, API Development and Software Engineering**
+- Continuously learning new technologies and improving my development skills
+- Goal: Become a professional **Full-Stack .NET Developer** and explore **AI Integration**
 
 ---
 
