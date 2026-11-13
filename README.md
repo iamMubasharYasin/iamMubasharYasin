@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student focused on building reliable, user-friendly web applications with the **.NET ecosystem**.
+I'm a Computer Science student focused on building reliable user-friendly web applications with the **.NET ecosystem**.
 
 I enjoy solving practical problems through clean code, maintainable architecture, and thoughtful application design.
 
@@ -31,19 +31,19 @@ I enjoy solving practical problems through clean code, maintainable architecture
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend Technologies
+###  Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
