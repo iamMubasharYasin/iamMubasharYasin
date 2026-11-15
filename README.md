@@ -156,21 +156,17 @@ I enjoy turning practical problems into useful software through clean code, main
 
 ## GitHub Statistics & Contributions
 
-<!-- REQUIRED: Replace YOUR_GITHUB_USERNAME in the two image URLs below.
-
-These images display real account data only after the username is configured.
-
--->
+<!-- GitHub account: iamMubasharYasin -->
 
 <p align="center">
 
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=C9D1D9&amp;icon_color=A78BFA&amp;border_color=30363D&amp;hide_border=false" alt="Mubashar Yasin's GitHub statistics — configure GitHub username to load" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=iamMubasharYasin&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=C084FC&amp;text_color=C9D1D9&amp;icon_color=A78BFA&amp;border_color=30363D&amp;hide_border=false" alt="Mubashar Yasin's GitHub statistics" />
 
 </p>
 
 <p align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=C084FC&amp;point=22D3EE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity — configure GitHub username to load" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamMubasharYasin&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=C084FC&amp;point=22D3EE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
 
 </p>
 
