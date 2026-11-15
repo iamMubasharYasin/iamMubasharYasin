@@ -1,160 +1,189 @@
+<!-- CYAN CONSOLE | Mubashar Yasin
+SETUP: Replace every YOUR_GITHUB_USERNAME below with your actual GitHub username.
+Paste this file into your public username/username profile repository as README.md.
+Designed for GitHub dark mode; the viewer controls GitHub's page theme.
+Banners, badges, typing and statistics are externally hosted SVG images.
+Statistics services may occasionally be unavailable or rate-limited.
+-->
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/%3E__developer.cs-0D1117?style=flat-square&amp;labelColor=0D1117&amp;color=0D1117" alt="developer.cs" />
+  <img src="https://img.shields.io/badge/CYAN_CONSOLE-22D3EE?style=flat-square&amp;labelColor=0D1117" alt="Cyan Console" />
+</p>
 
-# Mubashar Yasin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,65:112B42,100:382461&amp;height=210&amp;text=Mubashar%20Yasin&amp;fontColor=F0F6FC&amp;fontSize=52&amp;fontAlign=32&amp;fontAlignY=40&amp;desc=Full-Stack%20.NET%20Developer%20%7C%20Computer%20Science%20Student&amp;descSize=17&amp;descAlign=44&amp;descAlignY=65&amp;animation=fadeIn" alt="Mubashar Yasin — Full-Stack .NET Developer | Computer Science Student" />
 
-###  Computer Science Student · Full-Stack .NET Developer
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=1200&amp;color=22D3EE&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=%3E+Building+practical+web+applications+with+.NET;%3E+Clean+code.+Thoughtful+design.+Useful+software.;%3E+Learning%2C+building%2C+and+growing+every+day." alt="Building practical web applications with .NET. Clean code. Thoughtful design. Useful software. Learning, building, and growing every day." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+practical+web+applications;Learning+and+growing+with+.NET;Turning+ideas+into+useful+software" alt="Animated introduction" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/mubasharyasin)
+[![Email](https://img.shields.io/badge/Email-Let%27s_Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasharraj012@gmail.com)
 
-<br/>
+## Hi, I'm Mubashar
 
-</div>
+I'm a **Computer Science student and Full-Stack .NET Developer** focused on building reliable, user-friendly web applications with the **.NET ecosystem**.
 
----
+I enjoy turning practical problems into useful software through clean code, maintainable architecture, and thoughtful application design.
 
-## 👋 About Me
+- **Building:** full-stack web projects with **.NET 8/10**, ASP.NET Core MVC, Razor Pages, and modern frontend technologies.
+- **Working with:** C#, Entity Framework Core, SQL Server, and REST APIs.
+- **Exploring:** Clean Architecture, Repository Pattern, API development, and software engineering.
+- **Growing toward:** professional full-stack .NET development and **AI integration**, while continuously improving my skills.
 
-I'm a Computer Science student focused on building reliable user-friendly web applications with the **.NET ecosystem**.
-
-I enjoy solving practical problems through clean code, maintainable architecture, and thoughtful application design.
-
-- Building full-stack web projects with **.NET 8/10** and modern front-end technologies
-- Working with **C#, ASP.NET Core MVC, Razor Pages, Entity Framework Core, SQL Server and REST APIs**
-- Interested in **Clean Architecture, Repository Pattern, API Development and Software Engineering**
-- Continuously learning new technologies and improving my development skills
-- Goal: Become a professional **Full-Stack .NET Developer** and explore **AI Integration**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-###  Languages & Frameworks
-
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-###  Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-###  Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
+```csharp
+public class Developer
+{
+    public string Name => "Mubashar Yasin";
+    public string Focus => ".NET web development";
+    public string Mindset => "Learn. Build. Improve.";
+}
+```
 
 ---
 
-## ⚡ Also Familiar With
+## Featured Projects
 
-<div align="center">
-
-### 🧰 Development Tools
-
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github&theme=dark" alt="Development Tools" />
-
+<table>
+<tr>
+<td width="36%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:102D3B,100:432468&amp;height=150&amp;text=Al-Ehsas&amp;fontColor=F0F6FC&amp;fontSize=34&amp;fontAlignY=43&amp;desc=Welfare%20Foundation&amp;descSize=19&amp;descAlignY=66" alt="Al-Ehsas Welfare Foundation" />
 <br/><br/>
-
-### 🔥 Frameworks, APIs & Development Concepts
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Entity+Framework+Core+%7C+Razor+Pages;REST+APIs+%7C+Repository+Pattern;CRUD+Operations+%7C+Git;Visual+Studio+%7C+VS+Code;Postman+%7C+Scalar" alt="Animated Technologies" />
-
-<br/>
-
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-6A5ACD?style=flat-square)
-![CRUD](https://img.shields.io/badge/CRUD_Operations-2E8B57?style=flat-square)
-![Scalar](https://img.shields.io/badge/Scalar-1F2937?style=flat-square)
-
-</div>
-
----
-
-## 🚀 Projects
-
-### 🌍 Al-Ehsas Welfare Foundation
-
-**ASP.NET Core · .NET 8 · Entity Framework Core · SQL Server**
-
-A web-based donation and welfare management system designed to help visitors explore welfare services, submit donations, and follow social projects.
-
-**Key Features:**
-
-- 💰 Donation tracking and management
-- 🛡️ Admin panel for campaigns and website content
-- 📋 CRUD management for causes and cases
-- 📱 Responsive desktop and mobile interface
-- 🗃️ Database integration using Entity Framework Core
-
----
-
-### 🏡 Kotli E-State
-
-**ASP.NET Core · .NET 8 · Entity Framework Core · SQL Server · Bootstrap**
-
-A real estate management application designed to simplify property listing, searching, and management in Kotli, Azad Kashmir.
-
-**Key Features:**
-
-- 🏠 Property listing and detailed property pages
-- 🔎 Property search and filtering
-- 🛡️ Admin dashboard for property approval
-- 🧩 Repository Pattern and CRUD operations
-- 💬 Direct buyer-seller communication through WhatsApp
-- 🗄️ Structured backend for property management
+<img src="https://img.shields.io/badge/DOMAIN-Welfare_%26_Donations-22D3EE?style=flat-square&amp;labelColor=161B22" alt="Welfare and donations" />
+</td>
+<td valign="top">
+<h3>Al-Ehsas Welfare Foundation</h3>
+<p>A web-based donation and welfare management system that helps visitors explore welfare services, submit donations, and follow social projects.</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-16374A?style=flat-square" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/EF_Core-403065?style=flat-square" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/SQL_Server-16374A?style=flat-square" alt="SQL Server" />
+</p>
+<ul>
+<li>Donation tracking and management.</li>
+<li>Admin panel for campaigns and website content.</li>
+<li>CRUD management for causes and cases.</li>
+<li>Responsive desktop and mobile interface.</li>
+<li>Database integration using Entity Framework Core.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="36%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:102D3B,100:273E73&amp;height=150&amp;text=Kotli%20E-State&amp;fontColor=F0F6FC&amp;fontSize=30&amp;fontAlignY=43&amp;desc=Property%20Listings%20%26%20Management&amp;descSize=14&amp;descAlignY=66" alt="Kotli E-State — Property Listings and Management" />
+<br/><br/>
+<img src="https://img.shields.io/badge/DOMAIN-Real_Estate-22D3EE?style=flat-square&amp;labelColor=161B22" alt="Real estate" />
+</td>
+<td valign="top">
+<h3>Kotli E-State</h3>
+<p>A real estate management application designed to simplify property listing, searching, and management in Kotli, Azad Kashmir.</p>
+<p>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-16374A?style=flat-square" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/EF_Core-403065?style=flat-square" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/SQL_Server-16374A?style=flat-square" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
+</p>
+<ul>
+<li>Property listings and detailed property pages.</li>
+<li>Property search and filtering.</li>
+<li>Admin dashboard for property approval.</li>
+<li>Repository Pattern and CRUD operations.</li>
+<li>Direct buyer-seller communication through WhatsApp.</li>
+<li>Structured backend for property management.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Certificates
+## Skills & Technologies
 
-### 📜 Beginning C++ Programming – From Beginner to Beyond
+### Languages & Frameworks
 
-**Udemy**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts&amp;theme=dark" alt="C#, .NET, TypeScript" />
+</p>
 
-[![Certificate](https://img.shields.io/badge/View_Certificate-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-093f4cec-7738-4ff8-9203-89611285a9c8/)
+**C# · .NET 8/10 · ASP.NET Core MVC · TypeScript**
 
-### 📜 Mastering C# with .NET: Beginner to Intermediate Bootcamp
+### Frontend
 
-**Udemy**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&amp;theme=dark" alt="HTML5, CSS3, Bootstrap" />
+</p>
 
-[![Certificate](https://img.shields.io/badge/View_Certificate-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-6b500ff2-0450-4cdd-93b8-7716d57f0989/)
-[![Course](https://img.shields.io/badge/View_Course-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.udemy.com/course/mastering-csharp-with-beginner-to-intermediate-bootcamp/)
+**HTML5 · CSS3 · Bootstrap · Responsive interfaces**
 
-### 📜 ASP.NET MVC Complete Guide using .NET Core (.NET 8 Updated)
+### Databases
 
-**Udemy**
+![SQL Server](https://img.shields.io/badge/SQL_Server-16374A?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-16374A?style=for-the-badge&logo=mysql&logoColor=22D3EE)
 
-[![Certificate](https://img.shields.io/badge/View_Certificate-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b43786df-27a5-4927-87cb-faa116fb026b/)
-[![Course](https://img.shields.io/badge/View_Course-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.udemy.com/course/aspnet-mvc-course-aspnet-core/)
+### Development Tools
 
-## 🤝 Let's Connect
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github&amp;theme=dark" alt="Visual Studio, Visual Studio Code, Postman, Git, GitHub" />
+</p>
 
-<div align="center">
+**Visual Studio · VS Code · Postman · Git · GitHub · Scalar**
 
-I'm always interested in learning, collaborating, and building meaningful software.
+### Also Familiar With
 
-💡 **Exploring APIs, modern frameworks, and better ways to build useful applications.**
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Data access** | Entity Framework Core · Database integration |
+| **Web development** | Razor Pages · REST APIs · CRUD operations |
+| **Application structure** | Repository Pattern |
+| **Learning interests** | Clean Architecture · Software Engineering · AI Integration |
 
-🚀 **Open to connecting and collaborating on .NET web development projects.**
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=2400&amp;pause=1000&amp;color=A78BFA&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=Entity+Framework+Core+%7C+Razor+Pages;REST+APIs+%7C+Repository+Pattern;CRUD+Operations+%7C+Git;Visual+Studio+%7C+VS+Code;Postman+%7C+Scalar" alt="Entity Framework Core, Razor Pages, REST APIs, Repository Pattern, CRUD, Git, Visual Studio, VS Code, Postman, Scalar" />
+</p>
+
+---
+
+## Certifications
+
+| Course | Provider | Credentials |
+| :--- | :---: | :--- |
+| **Beginning C++ Programming – From Beginner to Beyond** | Udemy | [View Certificate](https://www.udemy.com/certificate/UC-093f4cec-7738-4ff8-9203-89611285a9c8/) |
+| **Mastering C# with .NET: Beginner to Intermediate Bootcamp** | Udemy | [View Certificate](https://www.udemy.com/certificate/UC-6b500ff2-0450-4cdd-93b8-7716d57f0989/) · [View Course](https://www.udemy.com/course/mastering-csharp-with-beginner-to-intermediate-bootcamp/) |
+| **ASP.NET MVC Complete Guide using .NET Core (.NET 8 Updated)** | Udemy | [View Certificate](https://www.udemy.com/certificate/UC-b43786df-27a5-4927-87cb-faa116fb026b/) · [View Course](https://www.udemy.com/course/aspnet-mvc-course-aspnet-core/) |
+
+---
+
+## GitHub Activity
+
+<!-- REQUIRED: Replace YOUR_GITHUB_USERNAME in the two image URLs below.
+These images display real account data only after the username is configured.
+-->
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=A78BFA&amp;border_color=30363D&amp;hide_border=false" alt="Mubashar Yasin's GitHub statistics — configure GitHub username to load" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=22D3EE&amp;point=A78BFA&amp;area=true&amp;area_color=164E63&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity — configure GitHub username to load" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in **learning, collaborating, and building meaningful software**.
+
+Exploring APIs, modern frameworks, and better ways to build useful applications. Open to connecting and collaborating on **.NET web development projects**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge)](https://linkedin.com/in/mubasharyasin)
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasharraj012@gmail.com)
+
+**[linkedin.com/in/mubasharyasin](https://linkedin.com/in/mubasharyasin)** · **[mubasharraj012@gmail.com](mailto:mubasharraj012@gmail.com)**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubasharyasin)
-
-[![Email](https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubasharraj012@gmail.com)
-
-<br/>
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=2500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting.+Let%27s+build+something+useful." alt="Thanks for visiting. Let's build something useful." />
+</p>
